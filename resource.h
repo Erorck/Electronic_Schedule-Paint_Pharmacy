@@ -1,0 +1,127 @@
+//{{NO_DEPENDENCIES}}
+// Archivo de inclusión generado de Microsoft Visual C++.
+// Usado por PIAEstruDat.rc
+//
+#define IDD_LOGIN                       101
+#define IDD_CENTRO                      103
+#define IDD_REGISTRO_MED                105
+#define IDR_MENU_MAIN                   109
+#define IDD_SALIR                       112
+#define IDD_CONSULTA                    113
+#define IDD_REGISTRO_PAC                114
+#define IDD_REGISTRO_CITA               115
+#define IDD_REGISTRO_ESP                116
+#define IDD_TRAS_MED                    120
+#define IDC_ECUSUARIO                   1001
+#define IDC_ECCONTRA                    1002
+#define IDC_BNINGRESAR                  1003
+#define IDC_BMP_MENU_LOGO               1004
+#define IDC_BNMED_EDITAR                1027
+#define IDC_BNMED_ELIMINAR              1028
+#define IDC_ECMED_CEDULAMED             1032
+#define IDC_STMED_NOMBREMED             1033
+#define IDC_STMED_ESPMED                1034
+#define IDC_ECMED_MESMED                1035
+#define IDC_ECMED_MES                   1035
+#define IDC_BN_FILTRAR                  1036
+#define IDC_NOM_USUARIO                 1038
+#define IDC_EC_RM_CEDULA                1039
+#define IDC_EC_RM_NOMBRE                1040
+#define IDC_EC_RM_HORA_1                1042
+#define IDC_EC_RM_TEL                   1043
+#define IDC_BN_RM_SUBIRF                1046
+#define IDC_BMP_RM_FOTODOC              1047
+#define IDC_EC_RM_HORA_2                1048
+#define ID_CANCELAR                     1052
+#define IDC_ECSEM_MES                   1054
+#define IDC_EC_SEM2                     1055
+#define IDC_STSEM_FECHA                 1060
+#define IDC_STSEM_HORA                  1061
+#define IDC_STSEM_NCONSULT              1062
+#define IDC_STSEM_ESPECIALIDAD          1063
+#define IDC_STSEM_MEDICO                1064
+#define IDC_STSEM_PACIENTE              1065
+#define IDC_STSEM_TELPAC                1066
+#define IDC_STSEM_ATENDIDA              1067
+#define IDC_STSEM_MOTIVO                1068
+#define IDC_LB_C_CITAS                  1069
+#define IDC_ECSEM_MESMED                1072
+#define IDC_CB_ESP                      1076
+#define IDC_EC_RP_NOMBRE                1078
+#define IDC_EC_RP_GENERO                1079
+#define IDC_EC_RP_TEL                   1080
+#define IDC_EC_RP_REF                   1081
+#define IDC_EC_RP_FNDIA                 1082
+#define IDC_EC_RP_FNMES                 1083
+#define IDC_EC_RP_FNANIO                1084
+#define IDC_EC_RP_EDAD                  1085
+#define IDC_CB_RP_PMED                  1087
+#define IDC_CB_RC_PAC                   1089
+#define IDC_BMP_RC_FOTODOC              1091
+#define IDC_CB_RC_MED                   1092
+#define IDC_DTP_RC                      1093
+#define IDC_ST_HORAS                    1094
+#define IDC_ST_DIAS                     1095
+#define IDC_CB_RC_ESP                   1096
+#define IDC_EC_RC_TEL                   1097
+#define IDC_LB_CITAS                    1098
+#define IDC_EC_RC_HORA                  1099
+#define IDC_EC_RC_MIN                   1100
+#define IDC_LB_PAC                      1101
+#define IDC_BN_GUARDAR                  1102
+#define IDC_EC_RP_ID                    1107
+#define IDC_STSEM_ID                    1109
+#define IDC_BN_BORRAR                   1112
+#define IDC_EC_RC_ID                    1113
+#define IDC_CB_RP_GENERO                1116
+#define IDC_BN_CANCELAR                 1119
+#define IDC_EC_RE_ID                    1120
+#define IDC_EC_RE_NOM                   1121
+#define IDC_EC_RE_DESC                  1122
+#define IDC_BN_GREP                     1123
+#define IDC_LB_ESP                      1125
+#define IDC_LB_TIME                     1126
+#define IDC_EC_RM_MIN1                  1127
+#define IDC_EC_RM_MIN2                  1128
+#define IDC_CB_RM_ESP                   1129
+#define IDC_CB_RM_NCON                  1131
+#define IDC_LB_MED                      1132
+#define IDC_ST_TM_MOSTRAR               1140
+#define IDC_ST_TM_H1                    1141
+#define IDC_ST_TM_H2                    1142
+#define IDC_ST_TM_DIAS                  1143
+#define IDC_CB_RM_L                     1144
+#define IDC_CB_RM_MA                    1145
+#define IDC_CB_RM_MI                    1146
+#define IDC_CB_RM_J                     1147
+#define IDC_CB_RM_V                     1148
+#define IDC_CB_RM_S                     1149
+#define IDC_CB_RM_D                     1150
+#define IDC_EC_RP_APELLIDO              1154
+#define IDC_ST_EDIT                     1155
+#define IDC_ST_EDNAME                   1156
+#define IDC_ST_TM_CONS                  1159
+#define IDC_RB_C_ESPSEM                 1160
+#define IDC_RB_C_MEDMES                 1161
+#define IDC_EC_SEM1                     1163
+#define IDC_BMP_C_FOTODOC               1164
+#define IDC_BN_REG                      1165
+#define IDC_EC_C_MC                     1166
+#define IDC_BN_BUSCAR                   1167
+#define IDC_EC_C_ID                     1168
+#define ID_BM_R_PACIENTE                40009
+#define ID_BM_R_MEDICO                  40010
+#define ID_BM_R_CITA                    40011
+#define ID_BM_R_ESPECIALIDAD            40012
+#define ID_BM_RP_CONSUL                 40035
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        122
+#define _APS_NEXT_COMMAND_VALUE         40036
+#define _APS_NEXT_CONTROL_VALUE         1169
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif
